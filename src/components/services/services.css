@@ -1,0 +1,44 @@
+.service__list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.2rem;
+  padding: 2rem;
+}
+
+.service {
+  background: rgba(30, 155, 183, 0.392);
+
+  border-radius: 2rem 2rem 2rem 2rem;
+  border: 1px solid var(--color-primary);
+  height: fit-content;
+  transition: var(--transition);
+}
+
+.service:hover {
+  background: transparent;
+  border-color: aqua;
+  cursor: default;
+}
+
+.service__list li {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.8rem;
+  font-size: large;
+}
+
+@media screen and (max-width: 1024px) {
+  .service__list {
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+  .service {
+    height: auto;
+  }
+}
+@media screen and (max-width: 600px) {
+  .service__list {
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+  }
+}
