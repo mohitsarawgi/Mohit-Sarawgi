@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/css/main.5b4ea0cd.css",
+    "main.js": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/js/main.97257327.js",
+    "static/media/bookshare.png": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/media/bookshare.600322ae6ea06de84fb9.png",
+    "static/media/portfolio.png": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/media/portfolio.0709ed9aab27d79706b5.png",
+    "static/media/zomzee.png": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/media/zomzee.ab6b99f07db81bc062fb.png",
+    "static/media/periodic.png": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/media/periodic.b61284ca7a0e519c84ef.png",
+    "static/media/solarsystem.png": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/media/solarsystem.86dc3db712fee9c408c3.png",
+    "static/media/spidykill.png": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/media/spidykill.cf1d92c553da2b977762.png",
+    "static/media/neutron.png": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/media/neutron.454aeba87f6b6f29f4c5.png",
+    "static/media/virtualschool.jpg": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/media/virtualschool.23f4422ff5d0fb70018e.jpg",
+    "static/media/elms.png": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/media/elms.403364b1e55361bda8a1.png",
+    "static/media/main.png": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/media/main.e7ad7c9017b3eb6e43da.png",
+    "static/media/f.png": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/media/f.a055f11e1ff436de3dc6.png",
+    "static/media/mohit.pdf": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/media/mohit.855c470940e10467848e.pdf",
+    "static/media/bg.jpg": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/media/bg.dc8192043e72bd13464b.jpg",
+    "index.html": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/index.html",
+    "main.5b4ea0cd.css.map": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/css/main.5b4ea0cd.css.map",
+    "main.97257327.js.map": "/mohitsarawgi/Mohit-Sarawgi.github.io.git/static/js/main.97257327.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b4ea0cd.css",
+    "static/js/main.97257327.js"
+  ]
+}
