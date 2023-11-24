@@ -13,7 +13,7 @@ const HeaderSocial = () => {
       <a href="https://github.com/mohitsarawgi" target="blank">
         <BsGithub />
       </a>
-      <a href="https://leetcode.com/Shinobi7/" target="blank">
+      <a href="https://leetcode.com/MohitSarawgi05/" target="blank">
         <SiLeetcode />
       </a>
       <a href="https://auth.geeksforgeeks.org/user/mohit777" target="blank">
